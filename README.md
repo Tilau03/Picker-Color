@@ -19,7 +19,7 @@ see a fan of colors in the middle part and in the inferior part a logo, some ini
 To use the extension you have to click on the black logo and a course with zoom will unfold where the pixel in the 
 center of the circle will be taken as a reference to extract the color and its code.
 Once you click on your chosen color, automatically the extension will return the color with its code in RGB (this 
-extension has RGB-HSL&HEX code) if you want to see the color code in another style, just click on the arrows and 
+extension has RGB-HSL-HEX code) if you want to see the color code in another style, just click on the arrows and 
 they will change the code.
 
 ## My Contact ❗
